@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/React-ecommerceApp/', // Set the base path for GitHub Pages
+  base: '/untitled-folder/', // Set the base path for GitHub Pages
 })
